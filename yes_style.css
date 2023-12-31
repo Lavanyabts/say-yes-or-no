@@ -1,0 +1,25 @@
+@import url('family=Comic+Neue:ital,wght@0,400;0,700;1,400&family=Dosis:wght@500&family=Fira+Sans+Condensed:ital,wght@0,300;1,200&family=Fredoka:wght@500&family=Koulen&family=Open+Sans:ital@1&family=Pacifico&family=Patrick+Hand&family=Rubik&family=Supermercado+One&display=swap" rel="stylesheet');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FFB6C1;
+}
+
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: #C71585;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: center;
+    justify-content: center;
+    align-items: center;
+}
